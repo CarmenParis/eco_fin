@@ -1,0 +1,24 @@
+[tool.poetry]
+name = "chafiq"
+version = "0.1.0"
+description = ""
+authors = ["Your Name <you@example.com>"]
+license = "n"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+numpy = "^2.2.6"
+pandas = "^2.2.3"
+matplotlib = "^3.10.3"
+scipy = "^1.15.3"
+arch = "^7.2.0"
+cvxpy = "^1.6.5"
+ecos = "^2.0.14"
+seaborn = "^0.13.2"
+scikit-learn = "^1.6.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
