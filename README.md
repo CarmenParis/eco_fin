@@ -35,6 +35,14 @@ PROJET_ECONO_FIN/
 pip install numpy pandas matplotlib seaborn
 pip install arch cvxpy
 
+OU 
+
+poetry install (si l'utilisateur utilise poetry)
+
 ## Exécution
 
 Pour lancer l'ensemble de la pipline depuis le terminal : python main.py
+
+OU
+
+poetry run python main.py (si poetry)
