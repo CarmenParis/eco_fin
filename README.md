@@ -32,8 +32,8 @@ PROJET_ECONO_FIN/
 
 ## Installation 
 
-pip install numpy pandas matplotlib seaborn
-pip install arch cvxpy
+pip install numpy pandas matplotlib seaborn scikit-learn scipy 
+pip install arch cvxpy ecos
 
 OU 
 
